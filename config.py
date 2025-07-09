@@ -9,8 +9,8 @@ API_HASH = os.environ.get("API_HASH","b70bb1d45a1d05236671d4cc615e40f9")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@@Downloaderapna10bot")
-BOT_TEXT = "Downloader 10"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Violation_indiabot")
+BOT_TEXT =  "Violation_indiabot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6414266397"))
 # ------------------------------------------------
@@ -30,7 +30,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "UGxPRO" #without @
+ADMIN_BOT_USERNAME = "Violation_indiabot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
 
