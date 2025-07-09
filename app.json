@@ -20,7 +20,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username",
-      "value": "@DRM_DawnloadHub_bot",
+      "value": "@Violation_indiabot",
       "required": true
     },
     "OWNER_ID": {
